@@ -2,6 +2,7 @@
 detailed description available on:
 https://www.hackster.io/uday-solanki/fire-and-lpg-leakage-alert-using-z-score-analysis-e8b7ec
 
+# Fire-and-LPG-Leakage-Alert-Using-Z-score-Analysis and machine Learning model
 Further how we can integrate the machine learning model in this project follow below methods to acheive that.
 So instead of using filters at integromat to know what is actually happening in the room . That is either a fire or a leakage so instead of using if else condition we are going to add machine learning model to determine what message shoud we post to the user.
  
